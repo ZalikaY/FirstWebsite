@@ -1,0 +1,27 @@
+
+body{
+ background-color: black;
+ font-size: 25px;
+ font-family: "Papyrus, fantasy";;
+}
+.special{
+ font-family: "Papyrus,fantasy";
+ color: peachpuff;
+}
+
+#bio {
+ color: pink;
+}
+
+li a{
+ text-decoration: none;
+ /*text decoration*/
+}
+
+h1,h2{
+ font-family: "Papyrus, fantasy";
+}
+
+.titl {
+  color : red;
+}
